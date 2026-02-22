@@ -20,7 +20,9 @@ In order to put an emphasis on security I went the extra mile to mix additional 
 
 By keeping these principles close at hand with everything I look to create all data can be safely kept on a local level.
 
+Articulating what you want to say into documentation which others can understand is a seemingly difficult skill to aquire for most people. Writing professionally is more than writing compicated and technical words into a word document in an attempt to describe the project or artifacts which have been created. Communicating these artifacts to non-technical stakeholders and still being able to explain the base logic behind the application is one area which I intensely focused on. I have always maintained the idea that if you cannot explain the subject to someone in simple terms, then you do not fully understand it youself. I know I have done this through my documentation in the CS499 Capstone course as well as all other written documentation explaining my algorithms, database work, and security decisions. Working this into a business plan and making it work alongside other groups is the best skill I can offer and often times proves to be the most valuable, because you also have to be able to easily understand how other groups of people function.
 
+Overall I think I have learned from this program to effectively document and communicate with others who may be considered stakeholders when developing a product. I am proficcient in mathematics and algorithms where I can imagine from the ground up how functions and complex logic function which is key when fixing bugs and such down the line. While I am weaker on the front end, I make up for it with my understanding of OOP principles and overall engineering design philosophy trying to keep end users and other stakeholders first.
 
 Collaborating in team
 
