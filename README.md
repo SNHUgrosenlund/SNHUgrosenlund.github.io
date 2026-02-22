@@ -1,20 +1,23 @@
 # Geren Rosenlund
 ## Capstone ePortfolio
-### Self Assessment
+## Overview
+
+This contains all my work and documentation building up to the final submission for the CS499 Capstone course. The included artifacts started as three separate projects I previously worked on, but turned into enhancing one single project to fit into all three categories to create a more robust and widely usable database parser program. The artifacts demosntrate my skills in software engineering techniques, algorithms and data strucutres, and databases.
+
+## Self-Assessment
 
 
 
+Collaborating in team
+
+Communicating with stakeholders
+
+Data structures and algorithms
+
+Software engineering & databases
+
+Security
 
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LPJulQCoyOU/0.jpg)](https://www.youtube.com/watch?v=LPJulQCoyOU)
-
-
-
-
-
----
-
-[![Repository](https://img.shields.io/badge/repo-SNHU-blueviolet.svg?style=for-the-badge&logo=github)](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io "Back to Repository") [![ePortfolio Home](https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant)](https://arsari.github.io/ePortfolio "Back to ePortfolio Home")
-
----
