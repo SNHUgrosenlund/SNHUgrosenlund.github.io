@@ -1,6 +1,6 @@
 # Geren Rosenlund
 ## Capstone ePortfolio
-### geren.rosenlund@snhu.edu
+## Self Assessment
 TEMP
 
 
