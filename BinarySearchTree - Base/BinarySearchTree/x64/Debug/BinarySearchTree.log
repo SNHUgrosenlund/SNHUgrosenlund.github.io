@@ -1,0 +1,7 @@
+﻿  BinarySearchTree.cpp
+  CSVparser.cpp
+D:\500G Drive backup\Important Information\School\SNHU\1 - Projects\C++\BinarySearchTree\CSVparser.cpp(116,27): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\500G Drive backup\Important Information\School\SNHU\1 - Projects\C++\BinarySearchTree\CSVparser.cpp(121,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\500G Drive backup\Important Information\School\SNHU\1 - Projects\C++\BinarySearchTree\CSVparser.cpp(203,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  BinarySearchTree.vcxproj -> D:\500G Drive backup\Important Information\School\SNHU\1 - Projects\C++\BinarySearchTree\x64\Debug\BinarySearchTree.exe
