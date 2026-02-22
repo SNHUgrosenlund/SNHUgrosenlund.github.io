@@ -28,18 +28,10 @@ Articulating what you want to say into documentation which others can understand
 <br>
 <br>
 Overall I think I have learned from this program to effectively document and communicate with others who may be considered stakeholders when developing a product. I am proficcient in mathematics and algorithms where I can imagine from the ground up how functions and complex logic function which is key when fixing bugs and such down the line. While I am weaker on the front end, I make up for it with my understanding of OOP principles and overall engineering design philosophy trying to keep end users and other stakeholders first.
-
-
-Collaborating in team
-
-Communicating with stakeholders
-
-Data structures and algorithms
-
-Software engineering & databases
-
-Security
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LPJulQCoyOU/0.jpg)](https://www.youtube.com/watch?v=LPJulQCoyOU)
