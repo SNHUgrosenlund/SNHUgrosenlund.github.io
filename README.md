@@ -1,3 +1,4 @@
-# ePortfolio
-## Geren Rosenlund | geren.rosenlund@snhu.edu | SNHUgrosenlund.github.io
+# Geren Rosenlund
+## Capstone ePortfolio
+### geren.rosenlund@snhu.edu | SNHUgrosenlund.github.io
 TEMP
