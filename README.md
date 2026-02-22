@@ -17,6 +17,7 @@ In order to put an emphasis on security I went the extra mile to mix additional 
 - Abstraction
 - Inheritance
 - Polymorphism
+
 By keeping these principles close at hand with everything I look to create all data can be safely kept on a local level.
 
 
