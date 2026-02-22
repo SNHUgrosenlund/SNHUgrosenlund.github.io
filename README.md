@@ -5,8 +5,7 @@
 This contains all my work and documentation building up to the final submission for the CS499 Capstone course. The included artifacts started as three separate projects I previously worked on, but turned into enhancing one single project to fit into all three categories to create a more robust and widely usable database parser program. The artifacts demosntrate my skills in software engineering techniques, algorithms and data strucutres, and databases.
 
 ## Self-Assessment
-<br>
-<br>
+
 People have strengths and weaknesses and I think it's important to learn what those are. Throughout the computer science program I have developed my natrual talent for creating logical systems using complex algorithms, data structures, and arithmetic. Simultaneously I took every chance I could to learn about front end through coursese like GAM207, Mobile Development, and Java Development to mitigate my inexperience in front end development. While not perfect (nobody is) I believe I have successfully managed to refine myself into a one of a kind computer scientist.
 <br>
 <br>
