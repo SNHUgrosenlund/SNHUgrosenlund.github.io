@@ -28,6 +28,28 @@ Articulating what you want to say into documentation which others can understand
 <br>
 <br>
 Overall I think I have learned from this program to effectively document and communicate with others who may be considered stakeholders when developing a product. I am proficcient in mathematics and algorithms where I can imagine from the ground up how functions and complex logic function which is key when fixing bugs and such down the line. While I am weaker on the front end, I make up for it with my understanding of OOP principles and overall engineering design philosophy trying to keep end users and other stakeholders first.
+
+
+## Original
+[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20Base)
+
+## Engineering Enhancement
+[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20engineering%20enhancement)
+
+## Algorithms Enhancement
+[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20algorithm%20enhancement)
+
+## Databases Enhancement
+[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20database%20enhancement)
+
+
+
+
+
+
+
+
+
 <br>
 <br>
 <br>
