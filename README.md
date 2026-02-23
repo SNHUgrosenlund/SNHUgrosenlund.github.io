@@ -2,6 +2,8 @@
 ## Capstone ePortfolio | [Website](https://snhugrosenlund.github.io)
 ## Overview
 
+![test](assets/Geren83a.jpg)
+
 This contains all my work and documentation building up to the final submission for the CS499 Capstone course. The included artifacts started as three separate projects I previously worked on, but turned into enhancing one single project to fit into all three categories to create a more robust and widely usable database parser program. The artifacts demosntrate my skills in software engineering techniques, algorithms and data strucutres, and databases.
 
 ## Self-Assessment
@@ -31,16 +33,16 @@ Overall I think I have learned from this program to effectively document and com
 
 
 ## Original
-[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20Base)
+> [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20Base)
 
 ## Engineering Enhancement
-[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20engineering%20enhancement)
+> [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20engineering%20enhancement)
 
 ## Algorithms Enhancement
-[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20algorithm%20enhancement)
+> [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20algorithm%20enhancement)
 
 ## Databases Enhancement
-[Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20database%20enhancement)
+> [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20database%20enhancement)
 
 
 
