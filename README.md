@@ -26,7 +26,7 @@ Effective documentation is another essential skill which many find difficult. Wr
 <br><br>
 Overall this program has strengthened my ability to document effectively, communicate with stakeholders, and design reliable systems. I am particularly strong in mathematics and algorithmic thinking, allowing me to conceptualize complex logic and troubleshoot effectively. While front end development is an area I can still improve, I compensate it with engineering design principles and a focus on user-centered design.
 
-## Base Artifact: Code Review
+## Base Artifact: Code Review (Youtube Video)
 > [![Code Review Video](https://img.youtube.com/vi/LPJulQCoyOU/0.jpg)](https://www.youtube.com/watch?v=LPJulQCoyOU)
 >> [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20Base)
 
