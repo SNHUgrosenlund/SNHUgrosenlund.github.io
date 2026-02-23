@@ -33,11 +33,13 @@ Overall this program has strengthened my ability to document effectively, commun
 This is the base project originating from my CS260 class used as the foundation for all subsequent enhancements. Although my original enhancement plan involved thee separate projects, I ultimately decided to enhance a single project accross all three areas.
 
 ## Engineering Enhancement
+<img src ="assets/wrench.jpg" width ="300" />
 > [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20engineering%20enhancement) | [Narrative](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/blob/main/Naratives/CS%20499%20Enhancement%20One%20Narrative.docx)
 
 For the engineering enhancement, introduced new features such as search functionality within the parser, allowing users to quickly locate specific entries loaded into the data structure. This improves usability and supports collaborative environments by making data access more efficient (it's easier for non-technical individuals to use and read).
 
 ## Algorithms Enhancement
+<img src ="assets/math.jpg" width ="300" />
 > [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20algorithm%20enhancement) | [Narrative](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/blob/main/Naratives/CS%20499%20Enhancement%20Two%20Narrative.docx)
 
 The algorithms enhancement involved correcting and improving the existing sorting implementation then adding additional sorting options using new algorithms. When I introduced the ability to load different files into the data structure, the original sorting process completely broke. I redsigned the logic to ensure that there are no compatibility issues with newly loaded data.
@@ -51,6 +53,7 @@ I included multiple new sorting algorithms, incluidng:
 It is important to state it is reverse ascending order and not simply decending because the algorithm is litteraly a mirrored version of the ascending order algorithm.
 
 ## Databases Enhancement
+<img src ="assets/database.jpg" width ="300" />
 > [Link to Artifact](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/tree/main/BinarySearchTree%20-%20database%20enhancement) | [Narrative](https://github.com/SNHUgrosenlund/SNHUgrosenlund.github.io/blob/main/Naratives/CS%20499%20Enhancement%20Three%20Narrative.docx)
 
 The final enhancement demonstrates a prociciency in integrating a database into an application that previously relied solely on memory data structures. Instead of modifying an existing database, I designed and implemented an SQLite (sqlite3) database from the parsed data inside the binary search tree. This change allows the application to be transferred and used by other systems. The result is a scalable, multi-purpose database file that expands the use cases from the original application. This enhancement demonstrates my ability to apply well-founded techniques, tools, and computing practices when implementing computer solutions that deliver value and accomplish specific goals.
