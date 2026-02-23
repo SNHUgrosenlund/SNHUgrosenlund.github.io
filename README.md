@@ -50,10 +50,5 @@ Overall I think I have learned from this program to effectively document and com
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LPJulQCoyOU/0.jpg)](https://www.youtube.com/watch?v=LPJulQCoyOU)
